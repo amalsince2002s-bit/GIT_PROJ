@@ -1,0 +1,7 @@
+git init                                        # initialize repo
+git status                                      # check what's tracked/untracked
+git add testing.py                              # stage file
+git commit -m "added testing files"             # commit staged files
+git config --global user.email "amal.since2002s@gmail.com"   # set email
+git config --global user.name "Amal S"         # set name
+git restore testing.py                          # recover deleted file
