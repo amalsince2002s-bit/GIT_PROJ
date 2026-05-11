@@ -7,6 +7,10 @@ git config --global user.name "Amal S"         # set name
 git restore testing.py                          # recover deleted file
 
 
+git pull origin master
+git push origin master
+
+
 New changes
 
 Extra cganges
